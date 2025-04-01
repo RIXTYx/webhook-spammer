@@ -1,4 +1,5 @@
-import time, requests, pyfiglet, threading
+import os, time, requests, pyfiglet, threading
+os.system('clear')
 
 print(" ")
 print("\033[1;34;48m          ⣼⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣶⣦\33[0m")
